@@ -1,0 +1,6 @@
+Syftet med applikationen är att underlätta arbetet för kund och personal på ett café.
+
+Kunden skall enkelt vid besök kunna sätta sig ned, knappa in den produkt denne vill beställa och göra en betalning
+allt i applikationen för att sedan få sin produkt.
+Personalens arbete underlättas då denne slipper sköta betalningen.
+Personalen får ne notifikation med beställd produkt och till vilket bord som produkten skall levereras till.
