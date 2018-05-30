@@ -1,0 +1,2 @@
+För kunden ska systemet vara tillgängligt minst under caféets öppettider. För personal och ägare ytterligare minst från två timmar innan caféet öppnar, samt fyra timmar efter stängning för att möjliggöra administrativa uppgifter.
+Användargränssnittet ska vara intuitivt.
