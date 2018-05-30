@@ -1,0 +1,3 @@
+Personalen hanterar beställningen och ser till att kunden får sin mat och dryck. Eftersom kunderna också kan ställa frågor om produkterna direkt till personalen istället för att söka information i systemet ligger Få fråga om produkt utanför själva systemet, och då kan de vid behov ta fram information om produkten från systemet.
+
+(Här ligger plottrat use case personal)
