@@ -1,0 +1,4 @@
+Kunden kan titta på menyn, granska innehållsförteckningen, välja produkter att lägga i varukorgen, titta och ändra 
+i varukorgen och slutligen skicka beställningen, betala och få kvitto.
+
+(här ligger use case plottrat diagram för kund)
