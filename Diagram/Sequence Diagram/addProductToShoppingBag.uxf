@@ -147,11 +147,11 @@ bg=red</panel_attributes>
     <coordinates>
       <x>1110</x>
       <y>510</y>
-      <w>210</w>
+      <w>190</w>
       <h>80</h>
     </coordinates>
     <panel_attributes>lt=&lt;-
-getInformation(product)</panel_attributes>
+getProduct(product)</panel_attributes>
     <additional_attributes>10.0;60.0;50.0;60.0;50.0;10.0;10.0;10.0</additional_attributes>
   </element>
   <element>
