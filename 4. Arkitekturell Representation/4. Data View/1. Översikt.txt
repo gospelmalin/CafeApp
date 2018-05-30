@@ -1,0 +1,7 @@
+Dataflödesdiagrammet level 0 visar dataflödet mellan externa entiteter och CaféApp-systemet. Vi har fyra olika externa entiteter/aktörer. Kund, Personal, Ägare och Betalning (exempelvis en bank).
+
+(Här ligger DFD level 0)
+
+Tittar vi på dataflödesdiagrammet för nästa nivå så ser vi att systemet inkluderar två databaser, en över de produkter caféet hanterar, och en över försäljningsdata. På den här nivån ser vi fyra processer, en för orderhantering, en för att hämta produktinformation, en för att administrera produkterna och en för att skapa rapporter. 
+
+(Här ligger DFD level 1)
