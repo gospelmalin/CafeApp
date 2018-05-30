@@ -1,0 +1,2 @@
+Betalningen är en aktör utanför applikationen.
+När en betalning sker skickas den till aktören som ger en konfirmation om betalningen gick igenom eller ej.
