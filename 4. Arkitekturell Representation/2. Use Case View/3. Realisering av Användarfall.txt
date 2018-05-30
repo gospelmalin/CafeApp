@@ -1,0 +1,2 @@
+
+(här ska ligga Sekvensdiagram för viktiga användarfall)
