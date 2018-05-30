@@ -1,0 +1,8 @@
+Följande miljöer och verktyg kommer att användas för realisering, byggande och tester:
+
+(tabell typ
+Produkt   Ansvar
+Eclipse   Programmeringsverktyg (IDE)
+JUnit     Enhetstestning av kod
+xxx       Byggstöd och rapporteringsverktyg
+)
