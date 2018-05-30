@@ -1,0 +1,1 @@
+Systemet bör gå att drifta med redundans.

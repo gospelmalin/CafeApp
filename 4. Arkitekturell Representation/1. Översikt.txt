@@ -1,0 +1,9 @@
+4.1	ARKITEKTURELLA VYER
+Vid modellering, dokumentation och implementering av ett system är det viktigt att systemet kan betraktas ur olika perspektiv. Vi har 
+därför valt att presentera arkitekturen i fyra vyer: Användarfallsvy, Logisk vy, Datavy och Driftsättningsvy. 
+•	Use case view riktar sig till alla, inklusive applikationens slutanvändare. 
+•	Logical view har designers som sin primära målgrupp.
+•	Data view är främst avsedd för dataspecialister och databasadministratörer.
+•	Deployment view riktar sig till de som ansvarar för driften.
+
+(Här borde vi ha en fin illustration)

@@ -1,0 +1,8 @@
+Följande produkter ingår i systemet:
+
+(här ligger förslagsvis en tabell ungefär så här:
+Produkttyp       Produkt     Version    Beskrivning
+Programspråk     Java        8.x        Suns javaimplementation
+Databashanterare xxxxx
+Driftskomponent   xxx
+)

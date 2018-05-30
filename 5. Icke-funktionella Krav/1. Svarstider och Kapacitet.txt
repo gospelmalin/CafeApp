@@ -1,0 +1,2 @@
+Från kundens perspektiv ska svarstiden normalt understiga 2 sekunder vid normalbelastning (20 samtidiga kunder). I övriga fall ska svarstiden vara mindre än 8 sekunder.
+Systemet ska klara att hantera minst 50 samtidiga användare.

@@ -1,0 +1,1 @@
+För att utveckla så säker programkod som möjligt har xxxxx använts för att förhindra SQL-injektioner.

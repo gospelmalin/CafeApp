@@ -1,0 +1,1 @@
+Systemet har fyra olika externa aktörer. Kund, Personal, Ägare och Betalning (exempelvis en bank).
