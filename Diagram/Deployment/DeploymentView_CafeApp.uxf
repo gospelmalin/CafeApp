@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.2">
+  <zoom_level>9</zoom_level>
+  <element>
+    <id>UMLDeployment</id>
+    <coordinates>
+      <x>324</x>
+      <y>18</y>
+      <w>225</w>
+      <h>72</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Applikationsserver&gt;&gt;
+CaféAppHost</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLDeployment</id>
+    <coordinates>
+      <x>594</x>
+      <y>18</y>
+      <w>225</w>
+      <h>72</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Databasserver&gt;&gt;
+Produkter
+Försäljning
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLDeployment</id>
+    <coordinates>
+      <x>54</x>
+      <y>18</y>
+      <w>225</w>
+      <h>72</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Applikation&gt;&gt;
+CaféApp</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>270</x>
+      <y>36</y>
+      <w>72</w>
+      <h>36</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;20.0;60.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>540</x>
+      <y>36</y>
+      <w>72</w>
+      <h>36</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;20.0;60.0;20.0</additional_attributes>
+  </element>
+</diagram>
