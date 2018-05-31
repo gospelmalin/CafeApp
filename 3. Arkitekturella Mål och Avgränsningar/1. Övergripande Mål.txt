@@ -1,1 +1,0 @@
-Huvudmålet med arkitekturen är att realisera beställarens krav på ett sådant sätt att systemet vid behov enkelt går att bygga ut.
