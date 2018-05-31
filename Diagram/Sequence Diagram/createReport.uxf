@@ -1,60 +1,48 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <diagram program="umlet" version="14.2">
-  <zoom_level>20</zoom_level>
+  <zoom_level>14</zoom_level>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>460</x>
-      <y>80</y>
-      <w>420</w>
-      <h>60</h>
+      <x>224</x>
+      <y>224</y>
+      <w>294</w>
+      <h>42</h>
     </coordinates>
     <panel_attributes>_handleReport:HandleReport_
 bg=orange</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
-    <id>UMLGeneric</id>
-    <coordinates>
-      <x>640</x>
-      <y>220</y>
-      <w>40</w>
-      <h>180</h>
-    </coordinates>
-    <panel_attributes>
-bg=yellow</panel_attributes>
-    <additional_attributes/>
-  </element>
-  <element>
     <id>Relation</id>
     <coordinates>
-      <x>640</x>
-      <y>120</y>
-      <w>60</w>
-      <h>380</h>
+      <x>350</x>
+      <y>252</y>
+      <w>42</w>
+      <h>602</h>
     </coordinates>
     <panel_attributes>lt=.</panel_attributes>
-    <additional_attributes>10.0;10.0;10.0;170.0</additional_attributes>
+    <additional_attributes>10.0;10.0;10.0;410.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>660</x>
-      <y>180</y>
-      <w>520</w>
-      <h>80</h>
+      <x>364</x>
+      <y>308</y>
+      <w>938</w>
+      <h>336</h>
     </coordinates>
     <panel_attributes>lt=&lt;-
 createReport()</panel_attributes>
-    <additional_attributes>240.0;20.0;10.0;20.0</additional_attributes>
+    <additional_attributes>10.0;220.0;560.0;220.0;560.0;10.0;10.0;10.0</additional_attributes>
   </element>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>960</x>
-      <y>80</y>
-      <w>380</w>
-      <h>60</h>
+      <x>826</x>
+      <y>224</y>
+      <w>266</w>
+      <h>42</h>
     </coordinates>
     <panel_attributes>_salesDB:SalesDataBase_
 bg=red</panel_attributes>
@@ -63,33 +51,21 @@ bg=red</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>1140</x>
-      <y>120</y>
-      <w>60</w>
-      <h>380</h>
+      <x>952</x>
+      <y>252</y>
+      <w>42</w>
+      <h>616</h>
     </coordinates>
     <panel_attributes>lt=.</panel_attributes>
-    <additional_attributes>10.0;10.0;10.0;170.0</additional_attributes>
+    <additional_attributes>10.0;10.0;10.0;420.0</additional_attributes>
   </element>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>1140</x>
-      <y>220</y>
-      <w>40</w>
-      <h>80</h>
-    </coordinates>
-    <panel_attributes>
-bg=red</panel_attributes>
-    <additional_attributes/>
-  </element>
-  <element>
-    <id>UMLGeneric</id>
-    <coordinates>
-      <x>1160</x>
-      <y>240</y>
-      <w>40</w>
-      <h>40</h>
+      <x>952</x>
+      <y>462</y>
+      <w>28</w>
+      <h>56</h>
     </coordinates>
     <panel_attributes>
 bg=red</panel_attributes>
@@ -98,34 +74,34 @@ bg=red</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>1180</x>
-      <y>220</y>
-      <w>280</w>
-      <h>100</h>
+      <x>980</x>
+      <y>462</y>
+      <w>182</w>
+      <h>70</h>
     </coordinates>
     <panel_attributes>lt=&lt;-
 getStatistics()</panel_attributes>
-    <additional_attributes>10.0;30.0;40.0;30.0;40.0;10.0;10.0;10.0</additional_attributes>
+    <additional_attributes>10.0;30.0;30.0;30.0;30.0;10.0;10.0;10.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>680</x>
-      <y>260</y>
-      <w>500</w>
-      <h>80</h>
+      <x>378</x>
+      <y>490</y>
+      <w>602</w>
+      <h>56</h>
     </coordinates>
     <panel_attributes>lt=&lt;.
 statistics:List&lt;Statistics&gt;</panel_attributes>
-    <additional_attributes>10.0;20.0;230.0;20.0</additional_attributes>
+    <additional_attributes>10.0;20.0;410.0;20.0</additional_attributes>
   </element>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>660</x>
-      <y>300</y>
-      <w>40</w>
-      <h>40</h>
+      <x>364</x>
+      <y>462</y>
+      <w>28</w>
+      <h>56</h>
     </coordinates>
     <panel_attributes>
 bg=yellow</panel_attributes>
@@ -134,10 +110,10 @@ bg=yellow</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>660</x>
-      <y>360</y>
-      <w>40</w>
-      <h>40</h>
+      <x>364</x>
+      <y>560</y>
+      <w>28</w>
+      <h>28</h>
     </coordinates>
     <panel_attributes>
 bg=yellow</panel_attributes>
@@ -146,13 +122,144 @@ bg=yellow</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>680</x>
-      <y>340</y>
-      <w>460</w>
-      <h>100</h>
+      <x>378</x>
+      <y>546</y>
+      <w>294</w>
+      <h>70</h>
     </coordinates>
     <panel_attributes>lt=&lt;.
-compileStatistics(reportType)</panel_attributes>
+compileReport(reportType)</panel_attributes>
     <additional_attributes>10.0;30.0;30.0;30.0;30.0;10.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLGeneric</id>
+    <coordinates>
+      <x>532</x>
+      <y>224</y>
+      <w>280</w>
+      <h>42</h>
+    </coordinates>
+    <panel_attributes>_productDB:ProductDataBase_
+bg=red</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLGeneric</id>
+    <coordinates>
+      <x>350</x>
+      <y>322</y>
+      <w>28</w>
+      <h>294</h>
+    </coordinates>
+    <panel_attributes>
+bg=yellow</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLGeneric</id>
+    <coordinates>
+      <x>966</x>
+      <y>476</y>
+      <w>28</w>
+      <h>28</h>
+    </coordinates>
+    <panel_attributes>
+bg=red</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>378</x>
+      <y>434</y>
+      <w>602</w>
+      <h>56</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+getStatistics()</panel_attributes>
+    <additional_attributes>410.0;20.0;10.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>658</x>
+      <y>252</y>
+      <w>42</w>
+      <h>616</h>
+    </coordinates>
+    <panel_attributes>lt=.</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;420.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLGeneric</id>
+    <coordinates>
+      <x>364</x>
+      <y>350</y>
+      <w>28</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>
+bg=yellow</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLGeneric</id>
+    <coordinates>
+      <x>658</x>
+      <y>350</y>
+      <w>28</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>
+bg=red</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>378</x>
+      <y>322</y>
+      <w>308</w>
+      <h>56</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+getInventory()</panel_attributes>
+    <additional_attributes>200.0;20.0;10.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>686</x>
+      <y>350</y>
+      <w>196</w>
+      <h>84</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+getInventory()</panel_attributes>
+    <additional_attributes>10.0;40.0;40.0;40.0;40.0;10.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLGeneric</id>
+    <coordinates>
+      <x>672</x>
+      <y>364</y>
+      <w>28</w>
+      <h>42</h>
+    </coordinates>
+    <panel_attributes>
+bg=red</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>378</x>
+      <y>392</y>
+      <w>308</w>
+      <h>56</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.
+inventory:List&lt;Product&gt;</panel_attributes>
+    <additional_attributes>10.0;20.0;200.0;20.0</additional_attributes>
   </element>
 </diagram>
