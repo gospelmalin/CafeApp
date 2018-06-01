@@ -1,8 +1,8 @@
 ﻿4.1	ARKITEKTURELLA VYER
 Vid modellering, dokumentation och implementering av ett system är det viktigt att 
 systemet kan betraktas ur olika perspektiv. Vi har därför valt att presentera 
-arkitekturen i fyra vyer: 
-Användarfallsvy, Logisk vy, Datavy och Driftsättningsvy. 
+arkitekturen i fem vyer: 
+Användarfallsvy, Logisk vy, Processvy, Datavy och Driftsättningsvy. 
 •	Use case view har som primärt syfte att gestalta grundläggande 
 användningsfall och därmed identifiera de huvudsakliga systemkraven, 
 samt illustrera och validera den valda designen. 
@@ -11,6 +11,9 @@ Denna vy riktar sig till alla, inklusive applikationens slutanvändare.
 interaktion och kommunikation, således den funktionalitet som systemet ger 
 slutanvändaren. Detta görs genom klassdiagram och state diagram. 
 Primär målgrupp: designers.
+•	Process view ska förklara systemprocesserna och hur de kommunicerar 
+och interagerar, fokuserar på runtime, bland annat genom aktivitetsdiagram.  Målgrupp:
+Målgrupp: Integratörer och utvecklare.
 •	Data view visar dataflöden och datastruktur och är främst avsedd för 
 dataspecialister och databasadministratörer.
 •	Deployment view definierar den fysiska miljön som systemet ska driftsättas 
