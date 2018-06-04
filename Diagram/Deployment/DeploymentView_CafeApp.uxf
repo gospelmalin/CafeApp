@@ -4,34 +4,37 @@
   <element>
     <id>UMLDeployment</id>
     <coordinates>
-      <x>324</x>
-      <y>18</y>
+      <x>279</x>
+      <y>9</y>
       <w>225</w>
       <h>72</h>
     </coordinates>
     <panel_attributes>&lt;&lt;Applikationsserver&gt;&gt;
-CaféAppHost</panel_attributes>
+(Linux Ubuntu)
+CaféAppHost </panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <id>UMLDeployment</id>
     <coordinates>
-      <x>594</x>
-      <y>18</y>
+      <x>549</x>
+      <y>9</y>
       <w>225</w>
       <h>72</h>
     </coordinates>
     <panel_attributes>&lt;&lt;Databasserver&gt;&gt;
+(postgreSQL)
 Produkter
 Försäljning
+
 </panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <id>UMLDeployment</id>
     <coordinates>
-      <x>54</x>
-      <y>18</y>
+      <x>9</x>
+      <y>9</y>
       <w>225</w>
       <h>72</h>
     </coordinates>
@@ -42,8 +45,8 @@ CaféApp</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>270</x>
-      <y>36</y>
+      <x>225</x>
+      <y>27</y>
       <w>72</w>
       <h>36</h>
     </coordinates>
@@ -53,12 +56,12 @@ CaféApp</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>540</x>
-      <y>36</y>
+      <x>495</x>
+      <y>27</y>
       <w>72</w>
       <h>36</h>
     </coordinates>
-    <panel_attributes/>
+    <panel_attributes>jpa</panel_attributes>
     <additional_attributes>10.0;20.0;60.0;20.0</additional_attributes>
   </element>
 </diagram>
