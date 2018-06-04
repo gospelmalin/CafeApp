@@ -3,4 +3,6 @@ använder appen för att titta på menyn, eventuellt granska innehållsförteckningen
 väljer produkter att lägga i varukorgen, skickar och betalar beställningen. En notifikation går då till 
 personalen som leverar beställningen till rätt bord. Samtidigt uppdateras lagerstatus för produkterna och 
 ordern registreras i en försäljningsdatabas. 
-Ägaren kan vid dagens slut ta ut en rapport med försäljningsdata och vid behov uppdatera produktdata.
+// Ägaren kan vid dagens slut ta ut en rapport med försäljningsdata och vid behov uppdatera produktdata.
+Ägaren har möjlighet att skapa rapporter så som försäljningsdata och lagerstatus.
+Vid behov kan ägaren även uppdatera eller lägga till ny produktdata.

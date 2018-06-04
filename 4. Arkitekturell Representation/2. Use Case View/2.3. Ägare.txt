@@ -1,3 +1,4 @@
-Ägaren står för det administrativa, lägger till, tar bort och ändrar produkter på menyn och deras pris. Denne kan också ta ut rapporter ur systemet.
+Ägaren står för det administrativa, lägger till, tar bort och ändrar produktdata på menyn.
+Denne kan också ta ut rapporter ur systemet.
 
 (Här ligger plottrat use case ägare)
