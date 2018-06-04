@@ -1,3 +1,0 @@
-﻿Här visas användarfallsrealiseringar för några av de viktigaste användningsfallen.
-
-(här ska ligga Sekvensdiagram för viktiga användarfall)
