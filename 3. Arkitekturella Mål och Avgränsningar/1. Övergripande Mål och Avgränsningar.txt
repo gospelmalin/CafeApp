@@ -8,5 +8,8 @@ Kunden skall enkelt vid besök kunna sätta sig ned, knappa in den produkt denne
 beställa och göra en betalning, allt i applikationen, för att sedan få sin produkt.
 Personalens arbete underlättas då dessa slipper sköta betalningen.
 Personalen får en notifikation med beställd produkt och till vilket bord som produkten skall levereras till.
+Ägaren kan administrera produktutbudet och ta ut rapporter om försäljningen.
+
+(här ska DFD level 0 in, figurtext:DFD Level 0 – Systemet och dess context)
 
 De huvudsakliga avgränsningarna med avseende på design och implementation är flexibilitet och enkelhet.
