@@ -1,0 +1,3 @@
+Systemet består av tre fysiska noder, själva applikationen, applikationsservern och databasservern, vilket visas i Figur 7. Som applikationsserver används Linux Ubuntu och för databaserna postgreSQL. Kommunikationen dem emellan sker via jpa. 
+
+(bild deployment view här)
