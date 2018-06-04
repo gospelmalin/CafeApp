@@ -10,14 +10,14 @@ Denna vy riktar sig till alla, inklusive applikationens slutanvändare.
 •	Logical view skall definiera systemets komponenter och interfaces för 
 interaktion och kommunikation, således den funktionalitet som systemet ger 
 slutanvändaren. Detta görs genom klassdiagram och state diagram. 
-Primär målgrupp: designers.
+Primär målgrupp: designers/utvecklare.
 •	Process view ska förklara systemprocesserna och hur de kommunicerar 
 och interagerar, fokuserar på runtime, bland annat genom aktivitetsdiagram.
 Målgrupp: Integratörer och utvecklare.
 •	Data view visar dataflöden och datastruktur och är främst avsedd för 
 dataspecialister och databasadministratörer.
 •	Deployment view definierar den fysiska miljön som systemet ska driftsättas 
-i, och de run-timeberoenden som finns. Deploymentdiagram används för detta. 
+i. Deploymentdiagram används för detta. 
 Denna vy riktar sig till de som ansvarar för driften.  
 
 
