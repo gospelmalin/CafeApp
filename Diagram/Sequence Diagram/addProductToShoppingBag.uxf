@@ -4,7 +4,7 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>583</x>
+      <x>550</x>
       <y>187</y>
       <w>33</w>
       <h>649</h>
@@ -15,7 +15,7 @@
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>726</x>
+      <x>693</x>
       <y>165</y>
       <w>231</w>
       <h>33</h>
@@ -27,7 +27,7 @@ bg=orange</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>517</x>
+      <x>484</x>
       <y>165</y>
       <w>176</w>
       <h>33</h>
@@ -39,7 +39,7 @@ bg=orange</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>825</x>
+      <x>792</x>
       <y>187</y>
       <w>33</w>
       <h>638</h>
@@ -50,7 +50,7 @@ bg=orange</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>583</x>
+      <x>550</x>
       <y>374</y>
       <w>22</w>
       <h>429</h>
@@ -62,7 +62,7 @@ bg=yellow</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>594</x>
+      <x>561</x>
       <y>352</y>
       <w>253</w>
       <h>44</h>
@@ -74,7 +74,7 @@ addToShoppingBag(product)</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>825</x>
+      <x>792</x>
       <y>374</y>
       <w>22</w>
       <h>330</h>
@@ -86,7 +86,7 @@ bg=yellow</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>1001</x>
+      <x>968</x>
       <y>165</y>
       <w>231</w>
       <h>33</h>
@@ -98,7 +98,7 @@ bg=red</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>1100</x>
+      <x>1067</x>
       <y>187</y>
       <w>33</w>
       <h>638</h>
@@ -109,7 +109,7 @@ bg=red</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>1100</x>
+      <x>1067</x>
       <y>506</y>
       <w>22</w>
       <h>77</h>
@@ -121,7 +121,7 @@ bg=red</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>847</x>
+      <x>814</x>
       <y>484</y>
       <w>275</w>
       <h>44</h>
@@ -133,7 +133,7 @@ getProduct(product)</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>1111</x>
+      <x>1078</x>
       <y>517</y>
       <w>22</w>
       <h>55</h>
@@ -145,7 +145,7 @@ bg=red</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>1122</x>
+      <x>1089</x>
       <y>506</y>
       <w>209</w>
       <h>88</h>
@@ -157,7 +157,7 @@ getProduct(product)</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>847</x>
+      <x>814</x>
       <y>561</y>
       <w>275</w>
       <h>44</h>
@@ -169,7 +169,7 @@ product:Product</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>836</x>
+      <x>803</x>
       <y>506</y>
       <w>22</w>
       <h>77</h>
@@ -181,7 +181,7 @@ bg=yellow</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>594</x>
+      <x>561</x>
       <y>704</y>
       <w>22</w>
       <h>99</h>
@@ -193,7 +193,7 @@ bg=yellow</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>605</x>
+      <x>572</x>
       <y>682</y>
       <w>242</w>
       <h>44</h>
@@ -205,7 +205,7 @@ confirmation:Boolean</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>605</x>
+      <x>572</x>
       <y>726</y>
       <w>22</w>
       <h>77</h>
@@ -217,7 +217,7 @@ bg=yellow</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>616</x>
+      <x>583</x>
       <y>715</y>
       <w>231</w>
       <h>110</h>
@@ -229,7 +229,7 @@ giveConfirmation(boolean)</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>583</x>
+      <x>550</x>
       <y>220</y>
       <w>22</w>
       <h>77</h>
@@ -241,7 +241,7 @@ bg=yellow</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>594</x>
+      <x>561</x>
       <y>198</y>
       <w>528</w>
       <h>44</h>
@@ -253,7 +253,7 @@ getProducts()</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>1100</x>
+      <x>1067</x>
       <y>220</y>
       <w>22</w>
       <h>77</h>
@@ -265,7 +265,7 @@ bg=red</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>1111</x>
+      <x>1078</x>
       <y>231</y>
       <w>22</w>
       <h>55</h>
@@ -277,7 +277,7 @@ bg=red</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>1122</x>
+      <x>1089</x>
       <y>220</y>
       <w>187</w>
       <h>88</h>
@@ -289,7 +289,7 @@ getAllProducts()</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>594</x>
+      <x>561</x>
       <y>275</y>
       <w>528</w>
       <h>44</h>
@@ -301,7 +301,7 @@ products:List&lt;Product&gt;</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>847</x>
+      <x>814</x>
       <y>374</y>
       <w>275</w>
       <h>44</h>
@@ -313,7 +313,7 @@ checkInventory(product)</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>836</x>
+      <x>803</x>
       <y>396</y>
       <w>22</w>
       <h>77</h>
@@ -325,7 +325,7 @@ bg=yellow</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>1100</x>
+      <x>1067</x>
       <y>396</y>
       <w>22</w>
       <h>77</h>
@@ -337,7 +337,7 @@ bg=red</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>1111</x>
+      <x>1078</x>
       <y>407</y>
       <w>22</w>
       <h>55</h>
@@ -349,7 +349,7 @@ bg=red</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>1122</x>
+      <x>1089</x>
       <y>396</y>
       <w>220</w>
       <h>88</h>
@@ -361,7 +361,7 @@ getInventory(product)</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>847</x>
+      <x>814</x>
       <y>451</y>
       <w>275</w>
       <h>44</h>
@@ -373,18 +373,18 @@ inventory:Int</panel_attributes>
   <element>
     <id>UMLFrame</id>
     <coordinates>
-      <x>671</x>
+      <x>638</x>
       <y>484</y>
       <w>660</w>
       <h>143</h>
     </coordinates>
-    <panel_attributes>if inventory == 0</panel_attributes>
+    <panel_attributes>if inventory &gt; 0</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>836</x>
+      <x>803</x>
       <y>594</y>
       <w>22</w>
       <h>22</h>
@@ -396,7 +396,7 @@ bg=yellow</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>847</x>
+      <x>814</x>
       <y>583</y>
       <w>209</w>
       <h>55</h>
@@ -408,18 +408,18 @@ setConfirmation(true)</panel_attributes>
   <element>
     <id>UMLFrame</id>
     <coordinates>
-      <x>671</x>
+      <x>638</x>
       <y>638</y>
       <w>385</w>
       <h>44</h>
     </coordinates>
-    <panel_attributes>if inventory &gt; 0</panel_attributes>
+    <panel_attributes>if inventory == 0</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>847</x>
+      <x>814</x>
       <y>638</y>
       <w>209</w>
       <h>55</h>
@@ -431,7 +431,7 @@ setConfirmation(false)</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>836</x>
+      <x>803</x>
       <y>649</y>
       <w>22</w>
       <h>22</h>
