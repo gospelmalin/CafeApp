@@ -12,7 +12,7 @@ interaktion och kommunikation, således den funktionalitet som systemet ger
 slutanvändaren. Detta görs genom klassdiagram och state diagram. 
 Primär målgrupp: designers.
 •	Process view ska förklara systemprocesserna och hur de kommunicerar 
-och interagerar, fokuserar på runtime, bland annat genom aktivitetsdiagram.  Målgrupp:
+och interagerar, fokuserar på runtime, bland annat genom aktivitetsdiagram.
 Målgrupp: Integratörer och utvecklare.
 •	Data view visar dataflöden och datastruktur och är främst avsedd för 
 dataspecialister och databasadministratörer.
