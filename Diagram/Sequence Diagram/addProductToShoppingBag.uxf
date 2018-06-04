@@ -378,7 +378,7 @@ inventory:Int</panel_attributes>
       <w>660</w>
       <h>143</h>
     </coordinates>
-    <panel_attributes>if inventory == 0</panel_attributes>
+    <panel_attributes>if inventory &gt; 0</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -413,7 +413,7 @@ setConfirmation(true)</panel_attributes>
       <w>385</w>
       <h>44</h>
     </coordinates>
-    <panel_attributes>if inventory &gt; 0</panel_attributes>
+    <panel_attributes>if inventory == 0</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
