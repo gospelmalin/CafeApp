@@ -7,7 +7,7 @@ och personal på ett café. Den designas också för att underlätta produkt- oc
 Kunden skall enkelt vid besök kunna sätta sig ned, knappa in den produkt denne vill 
 beställa och göra en betalning, allt i applikationen, för att sedan få sin produkt.
 Personalens arbete underlättas då dessa slipper sköta betalningen.
-Personalen får en notifikation med beställd produkt och till vilket bord som produkten skall levereras till.
+Personalen får en notifikation med beställd produkt och till vilket bord som produkten skall levereras.
 Ägaren kan administrera produktutbudet och ta ut rapporter om försäljningen.
 
 (här ska DFD level 0 in, figurtext:DFD Level 0 – Systemet och dess context)
