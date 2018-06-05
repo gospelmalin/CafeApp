@@ -1,0 +1,4 @@
+CaféApp finns i tre olika driftsversioner, vilka har olika funktioner upplåsta i användarinterfacet. 
+Endast versionen för Kund är allmänt tillgänglig. I kundversionen är de funktioner som beskrivs i Sektion 4.2.2.1 
+åtkomliga, medan personalversionen omfattar funktionaliteten i Sektion 4.2.2.2 och 
+ägarversionen endast har åtkomst till de administrativa funktionerna, se Sektion 4.2.2.3.
