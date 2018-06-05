@@ -1,3 +1,21 @@
 ﻿Här visas användarfallsrealiseringar för några av de viktigaste användningsfallen.
 
-(här ska ligga Sekvensdiagram för viktiga användarfall)
+4.3.3.1	Lägg produkt i varukorgen
+Kunden lägger en produkt i varukorgen.
+
+(här ska ligga Sekvensdiagram)
+
+4.3.3.2	Gör beställning
+Kunden gör en beställning.
+
+(här ska ligga Sekvensdiagram)
+
+4.3.3.3	Skapa rapport
+Ägaren skapar en rapport.
+
+(här ska ligga Sekvensdiagram)
+
+4.3.3.4	Hantera produkt 
+Ägaren uppdaterar eller lägger till en produkt.
+
+(här ska ligga Sekvensdiagram)
