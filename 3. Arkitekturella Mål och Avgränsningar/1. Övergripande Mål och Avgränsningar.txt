@@ -18,7 +18,8 @@ Personalen får via en personalversion av appen en notifikation med beställd pr
 CaféApp ska vara en applikation som ska fungera på iOS och Android. Vid varje bord finns en platta med applikationen, 
 men den ska också gå att ladda ner till privata mobila enheter.
 
-När kunden betalat sin beställning via kundversionen av appen plingar det till i personalversionen av appen.
+När kunden lagt sin beställning skickas en notifikation till personalen som via sin personalversion av applikationen kan 
+se vad som beställts och till vilket bord.
 
 3.1.2 Avgränsningar
 De huvudsakliga avgränsningarna med avseende på design och implementation är flexibilitet och enkelhet.
