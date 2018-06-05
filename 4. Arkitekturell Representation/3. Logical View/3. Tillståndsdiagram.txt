@@ -1,0 +1,3 @@
+Diagrammet i Figur 7 beskriver de olika tillstånd som en beställning går igenom.
+
+(här ligger State diagram)
