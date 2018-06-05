@@ -5,12 +5,12 @@ Arkitekturen designas för att uppfylla målet att underlätta hanteringen av be
 och personal på ett café. Den designas också för att underlätta produkt- och orderadministrationen.
 Figur 1 visar på en övergripande nivå hur detta är tänkt att fungera.
 
-Kunden skall enkelt vid besök kunna sätta sig ned, och via appen, endera i plattan som finns vid bordet, 
+Kunden skall enkelt vid besök kunna sätta sig ned, och via kundversionen av appen, endera i plattan som finns vid bordet, 
 eller nedladdad till kundens privata mobila enhet, knappa  knappa in den produkt denne vill 
 beställa och göra en betalning, allt i applikationen, för att sedan få sin produkt.
 Personalens arbete underlättas då dessa slipper sköta betalningen.
-Personalen får en notifikation med beställd produkt och till vilket bord som produkten skall levereras.
-Ägaren kan administrera produktutbudet och ta ut rapporter om försäljningen.
+Personalen får via en personalversion av appen en notifikation med beställd produkt och till vilket bord som produkten skall levereras.
+Ägaren kan via ägarversionen av appen administrera produktutbudet och ta ut rapporter om försäljningen.
 
 (här ska DFD level 0 in, figurtext:DFD Level 0 – Systemet och dess context)
 
