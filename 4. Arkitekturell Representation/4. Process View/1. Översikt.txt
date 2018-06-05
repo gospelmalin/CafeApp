@@ -1,0 +1,12 @@
+Översikt
+I processvyn visar vi hur huvudprocesserna fungerar och hur de interagerar med varandra. Vi använde aktivitetsdiagrammet för att visa vad som händer när huvudprocesserna anropas.
+
+Beställningsprocess:
+Figuren nedan visar hur beställningen fungerar när användarna gör en beställning online
+
+Hantera beställningen:
+Figuren nedan visar hur personalen hanterar beställningen när en användare har gört en beställning genom appen.
+
+Adminstrativa processer
+
+Figuren nedan visar aktivetets diagram av ägarens aktiveteter och hur de fungerar
