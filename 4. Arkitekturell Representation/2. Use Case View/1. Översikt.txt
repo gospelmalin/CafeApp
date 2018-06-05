@@ -1,7 +1,7 @@
 En övergripande beskrivning av systemet ur ett funktionellt perspektiv är att en kund kommer in på caféet, 
-använder appen för att titta på menyn, eventuellt granska innehållsförteckningen för någon produkt närmare, 
-väljer produkter att lägga i varukorgen, skickar och betalar beställningen. En notifikation går då till 
+använder kundversionen av appen för att titta på menyn, eventuellt granska innehållsförteckningen för någon produkt närmare, 
+väljer produkter att lägga i varukorgen, skickar och betalar beställningen. En notifikation går då via personalversionen av appen till 
 personalen som leverar beställningen till rätt bord. Samtidigt uppdateras lagerstatus för produkterna och 
 ordern registreras i en försäljningsdatabas. 
-Ägaren har möjlighet att skapa rapporter så som försäljningsdata och lagerstatus.
+Ägaren har i sin version av appen möjlighet att skapa rapporter så som försäljningsdata och lagerstatus.
 Vid behov kan ägaren även uppdatera eller lägga till ny produktdata.
