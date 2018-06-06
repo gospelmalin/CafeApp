@@ -1,4 +1,4 @@
-DFD
-JPA
-postgreSQL
-IDE
+DFD Data flow Diagram
+JPA Java Persistence API
+IDE integrated development environment
+Jva EE Java Enterprise Edition
