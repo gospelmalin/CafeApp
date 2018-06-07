@@ -1,0 +1,3 @@
+Datum skall formateras till ÅÅÅÅ-MM-DD format, t ex 2018-07-12.
+
+Data som saknar värde, exempelvis en tom sträng, ska returneras som null.
